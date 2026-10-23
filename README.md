@@ -2,4 +2,4 @@
 
 ### The development team is:
 - Me: Seong Gi-hun (sgh)
-- Nobody else at the moment
+- Kang Sae-byeok (ksb)
