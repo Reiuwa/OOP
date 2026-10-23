@@ -1,0 +1,6 @@
+# ignore manual / CLion build directories
+build
+cmake-build-debug
+
+# avoid sharing CLion project config dir
+.idea
