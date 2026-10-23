@@ -1,5 +1,5 @@
-# This is our start project
+This is a README file not ready yet
 
-### The development team is:
-- Me: Seong Gi-hun (sgh)
-- Kang Sae-byeok (ksb)
+
+
+
